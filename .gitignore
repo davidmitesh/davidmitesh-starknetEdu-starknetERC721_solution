@@ -1,0 +1,17 @@
+node_modules
+.vscode
+
+#Hardhat files
+cache
+artifacts
+
+#Python artifacts
+__pycache__
+.pytest_cache
+cairo-venv
+
+#Starknet plugin
+starknet-artifacts
+.env
+.example.env
+starknet-artifacts
